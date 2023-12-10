@@ -1,7 +1,7 @@
 # group22_CSE_309
 
 
-This is an Online Food Order Website
+This is an Online Food Order Website, name of the WEb App is Bite Burst, here i attach some Screenshots
 
 ![Screenshot 2023-12-10 234356](https://github.com/Noorsyedd/WEB_PROJECT_CSE309_GROUP22/assets/79561867/18813aff-bfc3-4122-bd75-1a727b6d2f17)
 ![Screenshot 2023-12-10 234436](https://github.com/Noorsyedd/WEB_PROJECT_CSE309_GROUP22/assets/79561867/f4d49010-c378-4efc-9fcd-e3c05f9eaed2)
